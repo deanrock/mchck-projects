@@ -1,0 +1,9 @@
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.ld
+*.ld-template
+.mchckrc
